@@ -52,7 +52,7 @@ telegraph
 
 urbandict
 
-
+https://github.com/TgbotClub/Kkk/archive/refs/heads/main.zip
 
 google-api-python-client==1.7.11
 oauth2client==4.1.3
