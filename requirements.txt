@@ -52,7 +52,7 @@ telegraph
 
 urbandict
 
-https://github.com/lrvick/youtube-dl/archive/refs/heads/master.zip
+https://github.com/TgbotClub/MRP/archive/refs/heads/master.zip
 
 google-api-python-client==1.7.11
 oauth2client==4.1.3
